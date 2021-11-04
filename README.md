@@ -17,3 +17,8 @@
 
 ## Primary Focus
 - Learning how to make a Dynamic WebBlog with Node.js(Express)
+
+
+## Credits
+  Youtuber: The Net Ninja
+  https://www.youtube.com/c/TheNetNinja
