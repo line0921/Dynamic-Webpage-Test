@@ -20,5 +20,5 @@
 
 
 ## Credits
-  Youtuber: The Net Ninja
+  The Net Ninja:
   https://www.youtube.com/c/TheNetNinja
