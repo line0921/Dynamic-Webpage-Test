@@ -1,7 +1,7 @@
 # Dynamic-Webpage-Test
 
 
-## Languages Used
+## Tech Used
 - Node.js
 - Express.js
 - EJS
