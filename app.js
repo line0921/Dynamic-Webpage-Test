@@ -10,7 +10,7 @@ app.listen(3000);
 
 
 // connect to mongodb 
-const dbURI = "mongodb+srv://line0921:test1234@nodetuts.aslhl.mongodb.net/nodetuts?retryWrites=true&w=majority";
+const dbURI = os.getenv(environment_variable_name);
 
 mongoose.connect(dbURI, { useNewUrlParser: true, useUnifiedTopology: true })
   .then(result => app.listen(3000))
