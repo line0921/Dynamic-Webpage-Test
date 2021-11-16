@@ -22,3 +22,8 @@
 ## Credits
  - The Net Ninja:
   https://www.youtube.com/c/TheNetNinja
+  
+## To Run the Code
+1) Clone Repository
+2) Under terminal run:
+   - npm install
